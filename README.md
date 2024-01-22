@@ -1,7 +1,8 @@
 ![github-header-image](https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/79286e6e-0330-4de2-b1aa-1c2c724df939)
 <h1 align="center">Hi 👋, I'm Pranav Jha</h1>
 <h3 align="center">A passionate Full-Stack developer from Montreal, QC, Canada</h3>
-<img align=“right” alt=“Coding” width=“400” src=“[g-web-coding)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ3MnU1Y3c0Zng0ZHNpNXRraTZybGVvZG01cGo4eGthZW9sa3RjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)” />
+![aboutme](https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/12344725-e589-4baa-b2ae-48e32028dd6f)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav-k-jha&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-k-jha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pranav_kjha" target="blank"><img src="https://img.shields.io/twitter/follow/pranav_kjha?logo=twitter&style=for-the-badge" alt="pranav_kjha" /></a> </p>
