@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/cad26379-c951-4cf0-bc49-668377883b0e)
+![github-header-image](https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5023717b-1428-4954-b3a2-49a3f696716a)
 
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A passionate frontend developer with full-stack expertise in MERN stack.</h3>
