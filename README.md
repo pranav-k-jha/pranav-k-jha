@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5023717b-1428-4954-b3a2-49a3f696716a)
+![github-header-image](https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/35108238-9f56-438f-98d1-37d5316e193f)
 
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A passionate frontend developer with full-stack expertise in MERN stack.</h3>
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-pranav-k-jha.vercel.app/](https://portfolio-pranav-k-jha.vercel.app/)
 
-- 💬 Ask me about **React, TypeScript, Tailwind CSS**
+- 💬 Ask me about **React, TypeScript, NextJS**
 
 - 📫 How to reach me **jha_k.pranav@live.com**
 
