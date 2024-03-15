@@ -10,13 +10,12 @@
 - 🔭 I’m currently working on [Nike App](https://nike-app-smoky.vercel.app/)
 
 - 🌱 I’m currently learning **NextJS**
-
+(img align="right" alt="Coding" width="400" src="(https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/579232e7-6a34-4c01-8c51-a3bb64aab3e1")
 - 👨‍💻 All of my projects are available at [https://portfolio-pranav-k-jha.vercel.app/](https://portfolio-pranav-k-jha.vercel.app/)
 
 - 💬 Ask me about **React, TypeScript, NextJS**
 
 - 📫 How to reach me **jha_k.pranav@live.com**
-<img align="right" ![software-development-web-coding-laptop-programming-concept-website-design-coding-remote-work-home_3482-5615](https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/579232e7-6a34-4c01-8c51-a3bb64aab3e1)/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
