@@ -11,8 +11,6 @@
 - 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-pranav-k-jha.vercel.app/](https://portfolio-pranav-k-jha.vercel.app/)
-![Coding](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Fillustrations%2F106220%2Fweb-developer&psig=AOvVaw1-Ir87YY_1MMT3S7WO9j7z&ust=1710562333839000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjw87Oz9YQDFQAAAAAdAAAAABAQ) 
-
 
 - 💬 Ask me about **React, TypeScript, NextJS**
 
