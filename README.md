@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/pranav_kjha" target="blank"><img src="https://img.shields.io/twitter/follow/pranav_kjha?logo=twitter&style=for-the-badge" alt="pranav_kjha" /></a> </p>
 
-- 🔭 I’m currently working on [Nike App](https://nike-app-smoky.vercel.app/)
+<-- - 🔭 I’m currently working on [Nike App](https://nike-app-smoky.vercel.app/) -->
 
 - 🌱 I’m currently learning **NextJS**
 
