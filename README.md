@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pranav_kjha" target="blank"><img src="https://img.shields.io/twitter/follow/pranav_kjha?logo=twitter&style=for-the-badge" alt="pranav_kjha" /></a> </p>
 
-- 🔭 I’m currently working on [an SaaS Platform with Next.js 13, React, Prisma, tRPC, Tailwind]()
+- 🔭 I’m currently working on [an SaaS Platform with Next.js 14, React, Prisma, tRPC, Tailwind]()
 
 - 🌱 I’m currently learning **Docker, Monorepo, CI/CD, WebSockets, Redis, Pub Subs and Queues**
 
