@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pranav.jha@mail.concordia.ca**
 
-- ⚡ Fun fact **I can find a way or another, but will not leave until the goal is achieved!**
+- ⚡ Fun fact **I can always find a way, and I won't give up until I reach my goal!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
