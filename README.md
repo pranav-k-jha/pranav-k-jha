@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, TypeScript, NextJS**
 
-- 📫 How to reach me **pranav.jha@gov.ab.ca**
+- 📫 How to reach me **pranav.jha@mail.concordia.ca**
 
 - ⚡ Fun fact **I can find a way or another, but will not leave until the goal is achieved!**
 
