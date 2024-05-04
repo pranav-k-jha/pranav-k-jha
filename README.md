@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Docker, Monorepo, CI/CD, WebSockets, Redis, Pub Subs, and Queues**
 
-- 👨‍💻 All of my projects are available on my [Portfolio](https://portfolio-pranavkjhas-projects.vercel.app/)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://pranav-k-jha.vercel.app/)
 
 - 💬 Ask me about **React, TypeScript, NextJS**
 
