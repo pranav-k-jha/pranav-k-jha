@@ -1,7 +1,6 @@
 ![github-header-image](https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/35108238-9f56-438f-98d1-37d5316e193f)
 
-<img width="712" alt="Screenshot 2024-06-06 at 11 09 15 PM" src="https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5d8f304a-2806-4de8-89cd-f883c32db407">
-
+<p align=""center><img width="712" alt="Screenshot 2024-06-06 at 11 09 15 PM" src="https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5d8f304a-2806-4de8-89cd-f883c32db407"></p>
 
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A passionate frontend developer with full-stack expertise in MERN stack.</h3>
