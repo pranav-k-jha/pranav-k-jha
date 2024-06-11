@@ -9,7 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/pranav_kjha" target="blank"><img src="https://img.shields.io/twitter/follow/pranav_kjha?logo=twitter&style=for-the-badge" alt="pranav_kjha" /></a> </p>
 
-- 🔭 I’m currently working on [a Fullstack MERN React Admin Dashboard with Data Aggregation and Modeling](https://admin-dashboard-mern-orpin.vercel.app/)
+<!-- - 🔭 I’m currently working on [a Fullstack MERN React Admin Dashboard with Data Aggregation and Modeling](https://admin-dashboard-mern-orpin.vercel.app/) -->
+- - 🔭 I’m currently working on [a Modern E-Commerce Website in Next.js 14](https://e-com-next-trpc.vercel.app/)
 
 - 🌱 I’m currently learning **Docker, Monorepo, CI/CD, WebSockets, Redis, Pub Subs, and Queues**
 
