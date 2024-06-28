@@ -13,9 +13,9 @@
 <!-- - 🔭 I’m currently working on [a Fullstack MERN React Admin Dashboard with Data Aggregation and Modeling](https://admin-dashboard-mern-orpin.vercel.app/) -->
 <!-- - 🔭 I’m currently working on [a Modern E-Commerce Website in Next.js 14](https://e-com-next-trpc.vercel.app/) -->
 
-- 🌱 I’m currently learning **Docker, Monorepo, CI/CD, WebSockets, Redis, Pub Subs, and Queues**
+- 🌱 I’m currently learning **Docker, CI/CD, Kubernetes AWS Sagemaker**
 
-- 💬 Ask me about **React, TypeScript, NextJS**
+- 💬 Ask me about **Data Science, Machine Learning, AI**
 
 - 📫 How to reach me **pranav.jha@mail.concordia.ca**
 
