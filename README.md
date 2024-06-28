@@ -4,14 +4,14 @@
 <!--<p align="center"><img width="712" alt="Screenshot 2024-06-06 at 11 09 15 PM" src="https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5d8f304a-2806-4de8-89cd-f883c32db407"></p>-->
 
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">A passionate frontend developer with full-stack expertise in MERN stack.</h3>
+<h3 align="center">Data Science/ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav-k-jha&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-k-jha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pranav_kjha" target="blank"><img src="https://img.shields.io/twitter/follow/pranav_kjha?logo=twitter&style=for-the-badge" alt="pranav_kjha" /></a> </p>
 
 <!-- - 🔭 I’m currently working on [a Fullstack MERN React Admin Dashboard with Data Aggregation and Modeling](https://admin-dashboard-mern-orpin.vercel.app/) -->
-- 🔭 I’m currently working on [a Modern E-Commerce Website in Next.js 14](https://e-com-next-trpc.vercel.app/)
+<!-- - 🔭 I’m currently working on [a Modern E-Commerce Website in Next.js 14](https://e-com-next-trpc.vercel.app/) -->
 
 - 🌱 I’m currently learning **Docker, Monorepo, CI/CD, WebSockets, Redis, Pub Subs, and Queues**
 
