@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **pranav.jha@mkjhaconsult.com**
 
-- ⚡ Fun fact **The term "data engineering" was coined relatively recently compared to other tech fields. While data engineering as a practice has been around for decades, the term itself only gained widespread recognition in the 2010s. The rise of big data and the need for specialized roles to handle data pipelines, processing, and management led to the formalization of the data engineering role. Before that, these tasks were often handled by software engineers or data scientists.!**
+- ⚡ Fun fact: **The term "data engineering" was coined relatively recently compared to other tech fields. While data engineering as a practice has been around for decades, the term itself only gained widespread recognition in the 2010s. The rise of big data and the need for specialized roles to handle data pipelines, processing, and management led to the formalization of the data engineering role. Before that, these tasks were often handled by software engineers or data scientists.!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
