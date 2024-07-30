@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/pranav_kjha" target="blank"><img src="https://img.shields.io/twitter/follow/pranav_kjha?logo=twitter&style=for-the-badge" alt="pranav_kjha" /></a> </p>
 
-- 🔭 I’m currently working on [YouTube Data Engineering Project](https://github.com/pranav-k-jha/youtube-analysis-data-engineering-project)
+- 🔭 I’m currently working on [Early Detection of Heart Attack](https://www.kaggle.com/code/pranavjha24/early-detection-of-heart-attack)
 
 - 🌱 I’m currently learning **Natural Language Processing (NLP)**
 
