@@ -96,9 +96,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="Pranav's GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Pranav's GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&theme=radical" alt="Top Languages" />
