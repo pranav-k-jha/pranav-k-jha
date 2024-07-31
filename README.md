@@ -94,21 +94,8 @@
 </p>
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Pranav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="Pranav's GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-contribs.vercel.app/api?username=pranav-k-jha&theme=radical" alt="Contribution Graph" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Pranav's GitHub Stats" />
 </p>
@@ -120,4 +107,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=radical" alt="GitHub Streak" />
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pranav-k-jha&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-k-jha" /> </p>
 
