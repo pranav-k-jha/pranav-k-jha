@@ -94,6 +94,8 @@
 </p>
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&hide_title=true&count_private=true&theme=transparent" alt="GitHub Stats" />
+
   <img src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&count_private=true&hide_title=true&theme=chartreuse-dark" alt="Pranav's GitHub Stats" />
 </p>
 
