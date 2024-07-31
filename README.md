@@ -94,13 +94,13 @@
 </p>
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="Pranav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&count_private=true&hide_title=true&theme=transparent" alt="Pranav's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=darkblue" alt="GitHub Streak" />
 </p>
