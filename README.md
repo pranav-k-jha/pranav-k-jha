@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=chartreuse-dark" alt="GitHub Streak" style="width: 100%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=chartreuse-dark" alt="GitHub Streak" />
 </p>
 
 
