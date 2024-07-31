@@ -94,15 +94,30 @@
 </p>
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <span style="display: inline-block; margin: 0 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true" alt="GitHub Stats" style="border-radius: 8px; background-color: rgba(0, 0, 0, 0.6); box-shadow: 0 0 10px rgba(0, 128, 0, 0.6);" />
-  </span>
-  <span style="display: inline-block; margin: 0 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact" alt="Most Used Languages" style="border-radius: 8px; background-color: rgba(0, 0, 0, 0.6); box-shadow: 0 0 10px rgba(0, 0, 255, 0.6);" />
-  </span>
-  <span style="display: inline-block; margin: 0 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha" alt="GitHub Streak" style="border-radius: 8px; background-color: rgba(0, 0, 0, 0.6); box-shadow: 0 0 10px rgba(0, 255, 0, 0.6);" />
-  </span>
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Pranav's GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-contribs.vercel.app/api?username=pranav-k-jha&theme=radical" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Pranav's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=radical" alt="GitHub Streak" />
+</p>
 
