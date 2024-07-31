@@ -34,3 +34,22 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&show_icons=true&locale=en&layout=compact" alt="pranav-k-jha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&" alt="pranav-k-jha" /></p>
+
+<!-- Stats Header -->
+<h2 align="center">GitHub Statistics</h2>
+
+<!-- Languages Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&" alt="Streak Stats" />
+</p>
+
+<!-- Additional Information -->
+<p align="center">
+  <a href="https://github.com/pranav-k-jha" target="_blank" style="text-decoration: none; color: #0366d6; font-weight: bold;">Visit My GitHub Profile</a>
+</p>
+
