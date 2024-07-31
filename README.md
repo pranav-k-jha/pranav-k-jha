@@ -107,6 +107,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=radical" alt="GitHub Streak" />
 </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pranav-k-jha&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-k-jha" /> </p>
-
