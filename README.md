@@ -98,7 +98,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&theme=chartreuse-dark" alt="Top Languages" style="display:inline-block; width: 45%; vertical-align:top; height: 180px;" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=chartreuse-dark" alt="GitHub Streak" style="display:inline-block; width: 55%; height: 2200px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=chartreuse-dark" alt="GitHub Streak" style="display:inline-block; width: 55%; height: 220px;" />
 </p>
 
 
