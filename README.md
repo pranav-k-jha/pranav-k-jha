@@ -93,19 +93,9 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Pranav's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-contribs.vercel.app/api?username=pranav-k-jha&theme=radical" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true" alt="Pranav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha" alt="GitHub Streak" />
 </p>
 
 
