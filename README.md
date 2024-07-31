@@ -6,25 +6,22 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">Data Science | AI/ML Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav-k-jha&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-k-jha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pranav-k-jha&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-k-jha" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pranav_kjha" target="blank"><img src="https://img.shields.io/twitter/follow/pranav_kjha?logo=twitter&style=for-the-badge" alt="pranav_kjha" /></a> </p>
+<p align="center"> <a href="https://twitter.com/pranav_kjha" target="blank"><img src="https://img.shields.io/twitter/follow/pranav_kjha?logo=twitter&style=for-the-badge" alt="pranav_kjha" /></a> </p>
 
 - 🔭 I’m currently working on [Early Detection of Heart Attack](https://www.kaggle.com/code/pranavjha24/early-detection-of-heart-attack)
-
 - 🌱 I’m currently learning **Natural Language Processing (NLP)**
-
 - 💬 Ask me about **Data Science, Machine Learning, AI**
+- 📫 How to reach me: **pranav.jha@mkjhaconsult.com**
+- ⚡ Fun fact: **The term "data engineering" was coined relatively recently compared to other tech fields. While data engineering as a practice has been around for decades, the term itself only gained widespread recognition in the 2010s. The rise of big data and the need for specialized roles to handle data pipelines, processing, and management led to the formalization of the data engineering role. Before that, these tasks were often handled by software engineers or data scientists!**
 
-- 📫 How to reach me **pranav.jha@mkjhaconsult.com**
-
-- ⚡ Fun fact: **The term "data engineering" was coined relatively recently compared to other tech fields. While data engineering as a practice has been around for decades, the term itself only gained widespread recognition in the 2010s. The rise of big data and the need for specialized roles to handle data pipelines, processing, and management led to the formalization of the data engineering role. Before that, these tasks were often handled by software engineers or data scientists.!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pranav_kjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranav_kjha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pkrjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pkrjha" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://twitter.com/pranav_kjha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/pkrjha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
+
 
 <!-- Languages and Tools Header -->
 <h3 align="center" style="margin-bottom: 20px;">Languages and Tools:</h3>
