@@ -11,9 +11,9 @@
 <p align="center"> <a href="https://twitter.com/pranav_kjha" target="blank"><img src="https://img.shields.io/twitter/follow/pranav_kjha?logo=twitter&style=for-the-badge" alt="pranav_kjha" /></a> </p>
 
 - 🔭 I’m currently working on [Early Detection of Heart Attack](https://www.kaggle.com/code/pranavjha24/early-detection-of-heart-attack)
-- 🌱 I’m currently learning **Natural Language Processing (NLP)**
-- 💬 Ask me about **Data Science, Machine Learning, AI**
-- 📫 How to reach me: **pranav.jha@mkjhaconsult.com**
+- 🌱 I’m currently learning **Generative AI**
+- 💬 Ask me about **Web Development, Data Science, Machine Learning, AI**
+- 📫 How to reach me: **pranav.jha@mail.concordia.ca**
 - ⚡ Fun fact: **The term "data engineering" was coined relatively recently compared to other tech fields. While data engineering as a practice has been around for decades, the term itself only gained widespread recognition in the 2010s. The rise of big data and the need for specialized roles to handle data pipelines, processing, and management led to the formalization of the data engineering role. Before that, these tasks were often handled by software engineers or data scientists!**
 
 <h3 align="center">Connect with me:</h3>
