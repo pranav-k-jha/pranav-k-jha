@@ -4,7 +4,7 @@
 <!--<p align="center"><img width="712" alt="Screenshot 2024-06-06 at 11 09 15 PM" src="https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5d8f304a-2806-4de8-89cd-f883c32db407"></p>-->
 
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">Backend & Application Development Engineer | Expert in Full-Stack Development, Database Architecture, and AI (ML, DL, Generative AI) | Creating Scalable, Data-Driven Solutions and Actionable Insights</h3>
+<h3 align="center">Backend & Application Development Engineer | <br /> Expert in Full-Stack Development, Database Architecture, and AI (ML, DL, Generative AI) | Creating Scalable, Data-Driven Solutions and Actionable Insights</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pranav-k-jha&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-k-jha" /> </p>
 
