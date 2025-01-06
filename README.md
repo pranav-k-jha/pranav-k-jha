@@ -1,98 +1,102 @@
-![github-header-image](https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/2b33fd26-1ce8-4dd1-8d66-1937f5181f40)
+![github-header-image](https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/2b33fd26-1ce8-4dd1-8d66-1937f5181f40) 
+
+
+<!--<p align="center"><img width="712" alt="Screenshot 2024-06-06 at 11 09 15 PM" src="https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5d8f304a-2806-4de8-89cd-f883c32db407"></p>-->
 
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">
-Backend & Application Development Engineer | <br />
-Expert in Full-Stack Development, Database Architecture, and AI (ML, DL, Generative AI) | <br />
-Creating Scalable, Data-Driven Solutions and Actionable Insights
-</h3>
+<h3 align="center">Backend & Application Development Engineer | <br /> Expert in Full-Stack Development, Database Architecture, and AI (ML, DL, Generative AI) | <br /> Creating Scalable, Data-Driven Solutions and Actionable Insights</h3>
 
----
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pranav-k-jha&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-k-jha" /> </p>
 
-<h2 align="center">🔥 Highlights</h2>
+<p align="center"> <a href="https://twitter.com/pranav_kjha" target="blank"><img src="https://img.shields.io/twitter/follow/pranav_kjha?logo=twitter&style=for-the-badge" alt="pranav_kjha" /></a> </p>
 
-### 🚀 Latest Commits
-- [Early Detection of Heart Attack](https://www.kaggle.com/code/pranavjha24/early-detection-of-heart-attack) - Predictive modeling for cardiovascular disease prevention.  
-- [Generative AI Demo](https://github.com/pranav-k-jha/generative-ai-demo) - Experimenting with cutting-edge AI techniques.  
-- [Full-Stack Boilerplate](https://github.com/pranav-k-jha/fullstack-boilerplate) - Starter kit for web applications with React, Node.js, and MongoDB.  
-
-### 📌 Pinned Repositories
-- [Heart Disease Prediction](https://github.com/pranav-k-jha/heart-disease-prediction) - A comprehensive project featuring EDA and machine learning for early cardiovascular risk detection.  
-- [Portfolio Website](https://github.com/pranav-k-jha/portfolio-website) - Personal website showcasing skills, projects, and achievements.  
-- [Generative AI Applications](https://github.com/pranav-k-jha/generative-ai-apps) - Implementing practical AI solutions with GPT-based models.  
-
----
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=pranav-k-jha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://twitter.com/pranav_kjha" target="blank">
-    <img src="https://img.shields.io/twitter/follow/pranav_kjha?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
-
----
-
-- 🌱 **Currently Learning:** Generative AI  
-- 💬 **Ask Me About:** Web Development, Data Science, Machine Learning, AI  
-- 📫 **Reach Me At:** pranav.jha@mail.concordia.ca  
-- ⚡ **Fun Fact:** The term "data engineering" became mainstream in the 2010s due to the rise of big data. Before then, tasks like handling data pipelines were often handled by software engineers or data scientists!  
-
----
+<!-- - 🔭 I’m currently working on [Early Detection of Heart Attack](https://www.kaggle.com/code/pranavjha24/early-detection-of-heart-attack) -->
+- 🌱 I’m currently learning **Generative AI**
+- 💬 Ask me about **Web Development, Data Science, Machine Learning, AI**
+- 📫 How to reach me: **pranav.jha@mail.concordia.ca**
+- ⚡ Fun fact: **The term "data engineering" was coined relatively recently compared to other tech fields. While data engineering as a practice has been around for decades, the term itself only gained widespread recognition in the 2010s. The rise of big data and the need for specialized roles to handle data pipelines, processing, and management led to the formalization of the data engineering role. Before that, these tasks were often handled by software engineers or data scientists!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/pranav_kjha" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/pkrjha" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+  <a href="https://twitter.com/pranav_kjha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/pkrjha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
----
 
-<h3 align="center">Languages and Tools:</h3>
+<!-- Languages and Tools Header -->
+<h3 align="center" style="margin-bottom: 20px;">Languages and Tools:</h3>
+
+<!-- Icons Section -->
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://cloud.google.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40" />
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
   </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="display: inline-block; transition: transform 0.3s;">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);"/>
+  </a>
+</p>
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&count_private=true&theme=chartreuse-dark" alt="GitHub Stats" style="display:inline-block; width: 45%; vertical-align:top;" /> -->
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&theme=chartreuse-dark" alt="Top Languages" style="display:inline-block; width: 45%; vertical-align:top; height: 180px;" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=chartreuse-dark" alt="GitHub Streak" style="display:inline-block; width: 45%; height: 180px;" />
 </p>
