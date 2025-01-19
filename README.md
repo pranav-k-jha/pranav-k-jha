@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/2b33fd26-1ce8-4dd1-8d66-1937f5181f40) 
+![github-header-image](https://github.com/user-attachments/assets/eb950e39-e819-442c-a6eb-3847a60439e5)
 
 
 <!--<p align="center"><img width="712" alt="Screenshot 2024-06-06 at 11 09 15 PM" src="https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5d8f304a-2806-4de8-89cd-f883c32db407"></p>-->
