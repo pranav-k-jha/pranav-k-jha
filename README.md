@@ -5,17 +5,18 @@
 <!--<p align="center"><img width="712" alt="Screenshot 2024-06-06 at 11 09 15 PM" src="https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5d8f304a-2806-4de8-89cd-f883c32db407"></p>-->
 
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">Fullstack Engineer | Backend Focus | <br /> Expert in Full-Stack Development, Mobile Development, Database Architecture, and AI (ML, DL, Generative AI) | <br /> Creating Scalable, Data-Driven Solutions and Actionable Insights</h3>
+<h3 align="center">Machine Learning Engineer | AI Solutions Architect | <br /> Expert in Full-Stack Development, Mobile Development, Database Architecture, and AI (ML, DL, Generative AI) | <br /> Building Scalable, Innovative Solutions and Delivering Actionable Insights</h3>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pranav-k-jha&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-k-jha" /> </p>
 
 <p align="center"> <a href="https://twitter.com/pranav_kjha" target="blank"><img src="https://img.shields.io/twitter/follow/pranav_kjha?logo=twitter&style=for-the-badge" alt="pranav_kjha" /></a> </p>
 
 <!-- - 🔭 I’m currently working on [Early Detection of Heart Attack](https://www.kaggle.com/code/pranavjha24/early-detection-of-heart-attack) -->
-- 🌱 I’m currently learning **Generative AI**
-- 💬 Ask me about **Web Development, Data Science, Machine Learning, AI**
-- 📫 How to reach me: **pranav.jha@mail.concordia.ca**
-- ⚡ Fun fact: **The term "data engineering" was coined relatively recently compared to other tech fields. While data engineering as a practice has been around for decades, the term itself only gained widespread recognition in the 2010s. The rise of big data and the need for specialized roles to handle data pipelines, processing, and management led to the formalization of the data engineering role. Before that, these tasks were often handled by software engineers or data scientists!**
+- 🌱 I’m currently learning **Generative AI**  
+- 💬 Feel free to ask me about **Web Development, Data Science, Machine Learning, and AI**  
+- 📫 You can reach me at: **pranav.jha@mail.concordia.ca**  
+- ⚡ **Fun Fact:** Did you know that the foundations of modern machine learning, like neural networks, were conceptualized as far back as the 1940s? However, it wasn’t until the 21st century—thanks to advances in computational power and the availability of big data—that these concepts evolved into the powerful AI systems we use today!  
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
