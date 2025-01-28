@@ -12,7 +12,7 @@
 
 <p align="center"> <a href="https://twitter.com/pranav_kjha" target="blank"><img src="https://img.shields.io/twitter/follow/pranav_kjha?logo=twitter&style=for-the-badge" alt="pranav_kjha" /></a> </p>
 
-<!-- - 🔭 I’m currently working on [Early Detection of Heart Attack](https://www.kaggle.com/code/pranavjha24/early-detection-of-heart-attack) -->
+🔭 I’m currently working on [Predictive Threat Intelligence using Machine Learning](https://github.com/pranav-k-jha/kaggle-notebooks/blob/main/predictive-threat-intelligence.ipynb)
 - 🌱 I’m currently learning **Generative AI**  
 - 💬 Feel free to ask me about **Web Development, Data Science, Machine Learning, and AI**  
 - 📫 You can reach me at: **pranav.jha@mail.concordia.ca**  
