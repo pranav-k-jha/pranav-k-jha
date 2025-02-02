@@ -5,11 +5,12 @@
 <!--<p align="center"><img width="712" alt="Screenshot 2024-06-06 at 11 09 15 PM" src="https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5d8f304a-2806-4de8-89cd-f883c32db407"></p>-->
 
 <h1 align="center">Hi 👋, I'm Pranav Jha</h1>
-<h2 align="center">Application Support | AI-Driven Cybersecurity Researcher | Expertise in Python, Machine Learning & Cutting-Edge AI Technologies</h2>
+<h2 align="center">AI-Driven Cybersecurity Researcher | Application Support | Expert in Python, Machine Learning & AI Technologies</h2>
 <h3 align="center">
-    Specializing in Scalable Web & Mobile Development, Database Architecture, and AI-driven Solutions <br />
-    Passionate about Innovation, Automation, and Delivering Data-Driven Insights
+    Specializing in Scalable Web & Mobile Development, Database Architecture, and AI Solutions <br />
+    Passionate about Innovation, Automation, and Data-Driven Insights
 </h3>
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pranav-k-jha&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-k-jha" /> </p>
