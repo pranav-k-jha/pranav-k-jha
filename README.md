@@ -5,12 +5,21 @@
 <!--<p align="center"><img width="712" alt="Screenshot 2024-06-06 at 11 09 15 PM" src="https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5d8f304a-2806-4de8-89cd-f883c32db407"></p>-->
 
 <h1 align="center">Hi 👋, I'm Pranav Jha</h1>
-<h2 align="center">Data Scientist, AI & Machine Learning Expert</h2>
+<h2 align="center">Data Scientist & Full-Stack Engineer | AI Solutions Architect</h2>
 <h3 align="center">
-    Specializing in Scalable Web & Mobile Development, Database Architecture, and AI Solutions<br />
-    Passionate about Innovation, Automation, and Data-Driven Insights
+  Building Intelligent Systems at Scale: From Concept to Production
 </h3>
 
+<h4 align="center">
+  <code>🤖</code> Machine Learning Pipelines | <code>🌐</code> Full-Stack Development | <code>📊</code> Data Infrastructure | <code>🔧</code> DevOps & Support
+</h4>
+
+<p align="center">
+  Transforming raw data into production-grade solutions through:<br />
+  • Scalable web/mobile architectures • AI-powered automation systems<br />
+  • High-performance database design • CI/CD-driven application support<br />
+  • Enterprise-grade MLOps pipelines • Real-time analytics platforms
+</p>
 
 
 
