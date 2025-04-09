@@ -5,7 +5,7 @@
 <!--<p align="center"><img width="712" alt="Screenshot 2024-06-06 at 11 09 15 PM" src="https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5d8f304a-2806-4de8-89cd-f883c32db407"></p>-->
 
 <h1 align="center">Hi 👋, I'm Pranav Jha</h1>
-<h2 align="center">Data Scientist & Full-Stack Engineer | AI Solutions Architect</h2>
+<h2 align="center">Data Scientist| AI Solutions Architect with Full-Stack Expertise </h2>
 <h3 align="center">
   Building Intelligent Systems at Scale: From Concept to Production
 </h3>
