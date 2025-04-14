@@ -1,7 +1,3 @@
-Absolutely, Pranav! Here's a polished and professional rewrite of your GitHub README with the same energy, but more refined structure and phrasing:
-
----
-
 ![github-header-image](https://github.com/user-attachments/assets/d113f198-5f3a-4b84-9e3c-11495d9d0f30)
 
 <!-- Optional Screenshot Section -->
