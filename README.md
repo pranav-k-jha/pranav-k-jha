@@ -68,8 +68,8 @@
   <br><br>
 </div>
 
+## 🛠️ GitHub Stats
 
-<h3 align="center">GitHub Stats:</h3>
 <p align="center">
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&theme=chartreuse-dark" />
