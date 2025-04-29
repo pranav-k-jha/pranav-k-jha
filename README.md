@@ -32,7 +32,7 @@
 ---
 
 ### 🔬 Current Focus
-- 🛠 Building: [CIC-IDS-2017 XGBoost Classifier](https://github.com/pranav-k-jha/kaggle-notebooks/blob/main/CIC-IDS-2017%20BERT%20Classification.ipynb)
+- 🛠 In Progress: Resolving Data Structure Challenges in Machine Learning for Connected and Autonomous Vehicle (CAV) Communication Systems (Private Repository)
 - 📚 Exploring: **Generative AI and LLM Fine-Tuning**
 - 💬 Ask me about: Web Development • Data Science • Machine Learning • DevOps  
 - 📩 Reach me at: **pranav.jha@mail.concordia.ca**
