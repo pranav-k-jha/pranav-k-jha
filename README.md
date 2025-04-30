@@ -5,7 +5,6 @@
   <img width="712" alt="Screenshot 2024-06-06 at 11 09 15 PM" src="https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5d8f304a-2806-4de8-89cd-f883c32db407">
 </p> -->
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=pranav-k-jha)
 
 <h1 align="center">Hey there 👋, I'm Pranav Jha</h1>
 <h2 align="center">Data Scientist | AI Solutions Architect | Full-Stack Developer</h2>
