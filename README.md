@@ -92,4 +92,4 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=default" alt="GitHub Streak" style="display:inline-block; width: 45%;" />
    </picture>
 </p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
