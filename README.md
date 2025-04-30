@@ -4,7 +4,6 @@
 <!-- <p align="center">
   <img width="712" alt="Screenshot 2024-06-06 at 11 09 15 PM" src="https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5d8f304a-2806-4de8-89cd-f883c32db407">
 </p> -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pranav-k-jha)](https://git.io/streak-stats)
 
 <h1 align="center">Hey there 👋, I'm Pranav Jha</h1>
 <h2 align="center">Data Scientist | AI Solutions Architect | Full-Stack Developer</h2>
@@ -91,6 +90,7 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=chartreuse-dark" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=default" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=default" alt="GitHub Streak" style="display:inline-block; width: 45%;" />
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=pranav-k-jha" alt="GitHub Streak" />
    </picture>
 </p>
 
