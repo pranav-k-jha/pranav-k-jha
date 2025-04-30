@@ -32,7 +32,7 @@
 ---
 
 ### 🔬 Current Focus
-- 🛠 In Progress: Resolving Data Structure Challenges in Machine Learning for Connected and Autonomous Vehicle (CAV) Communication Systems (Private Repository)
+- 🛠 In Progress: Advances in the Application of Machine Learning for Forecasting Travel Behavior: Case Study of Minnesota (Private Repository)
 - 📚 Exploring: **Generative AI and LLM Fine-Tuning**
 - 💬 Ask me about: Web Development • Data Science • Machine Learning • DevOps  
 - 📩 Reach me at: **pranav.jha@mail.concordia.ca**
