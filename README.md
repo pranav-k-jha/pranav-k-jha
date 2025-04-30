@@ -90,7 +90,7 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=chartreuse-dark" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=default" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=default" alt="GitHub Streak" style="display:inline-block; width: 45%;" />
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=pranav-k-jha" alt="GitHub Streak" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha" alt="GitHub Streak" />
    </picture>
 </p>
 
