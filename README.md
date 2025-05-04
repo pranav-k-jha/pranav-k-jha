@@ -9,9 +9,6 @@
 <h2 align="center">🔬 Data Scientist  |  🧩 AI Solutions Architect  |  💻 Full-Stack Developer</h2>
 <h3 align="center">Designing Scalable AI Systems — From Idea to Deployment</h3>
 
-<h4 align="center">
-  <code>🤖</code> Machine Learning Pipelines | <code>🌐</code> Full-Stack Engineering | <code>📊</code> Data Infrastructure | <code>🔧</code> MLOps & DevOps
-</h4>
 
 <p align="center">
   Passionate about transforming raw data into actionable, production-grade solutions.<br />
