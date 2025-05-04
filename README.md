@@ -31,7 +31,7 @@
 
 ### 🔬 Current Focus
 - 🛠 In Progress: Advances in the Application of Machine Learning for Forecasting Travel Behavior: Case Study of Minnesota (Private Repository)
-- 📚 Exploring: **Generative AI and LLM Fine-Tuning**
+- 📚 Exploring: **LLMOps**
 - 💬 Ask me about: Web Development • Data Science • Machine Learning • DevOps  
 - 📩 Reach me at: **pranav.jha@mail.concordia.ca**
 
