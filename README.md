@@ -15,8 +15,8 @@
 
 <p align="center">
   Passionate about transforming raw data into actionable, production-grade solutions.<br />
-  🚀 Web & Mobile Systems • 🧠 AI-Driven Automation • 📦 Optimized Data Workflows <br />
-  🔁 CI/CD & MLOps • 📈 Real-Time Analytics • 🧩 Modular Software Architecture
+  🚀 Web & Mobile Systems • 🧠 AI-Driven Automation • 📦 Optimized Data Workflows • 🔄 CI/CD & MLOps • 📈 Real-Time Analytics • 🧩 Modular Software Architecture<br />
+  🗣️ NLP & Generative AI • 📚 LangChain & Open-Source Models • 🧠 LLMs & Multimodal Systems • ✍️ Fine-Tuning (QLoRA, LoRA) • ⚙️ MLOps & LLMOps • 🔄 Transformers, BERT & Hugging Face
 </p>
 
 <p align="center">
@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/twitter/follow/pranav_kjha?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
 </p>
+
 
 ---
 
