@@ -5,29 +5,48 @@
   <img width="712" alt="Screenshot 2024-06-06 at 11 09 15 PM" src="https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5d8f304a-2806-4de8-89cd-f883c32db407">
 </p> -->
 
-<h1 align="center">Hey there 👋, I'm Pranav Jha</h1>
-<h2 align="center">Data Scientist | AI Solutions Architect | Full-Stack Developer</h2>
-<h3 align="center">Designing Scalable AI Systems — From Idea to Deployment</h3>
+<h1 align="center">👋 Hey there, I’m <span style="color:#1E90FF;">Pranav Jha</span></h1>
+<h2 align="center">🔬 Data Scientist  |  🧩 AI Solutions Architect  |  💻 Full-Stack Developer</h2>
+<p align="center">Designing **scalable**, **robust** AI systems—from concept to production 🚀</p>
 
-<h4 align="center">
-  <code>🤖</code> Machine Learning Pipelines | <code>🌐</code> Full-Stack Engineering | <code>📊</code> Data Infrastructure | <code>🔧</code> MLOps & DevOps
-</h4>
+---
 
 <p align="center">
-  Passionate about transforming raw data into actionable, production-grade solutions.<br />
-  🚀 Web & Mobile Systems • 🧠 AI-Driven Automation • 📦 Optimized Data Workflows • 🔄 CI/CD & MLOps • 📈 Real-Time Analytics • 🧩 Modular Software Architecture<br />
-  🗣️ NLP & Generative AI • 📚 LangChain & Open-Source Models • 🧠 LLMs & Multimodal Systems • ✍️ Fine-Tuning (QLoRA, LoRA) • ⚙️ MLOps & LLMOps • 🔄 Transformers, BERT & Hugging Face
+  <code>🤖</code> <strong>ML Pipelines</strong>   |  
+  <code>🌐</code> <strong>Full-Stack Engineering</strong>   |  
+  <code>📊</code> <strong>Data Infrastructure</strong>   |  
+  <code>🔧</code> <strong>MLOps & DevOps</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranav-k-jha&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-k-jha" />
+  <code>🗣️</code> <strong>NLP & Generative AI</strong>   |  
+  <code>📚</code> <strong>LangChain & Open-Source Models</strong>   |  
+  <code>🧠</code> <strong>LLMs & Multimodal Systems</strong><br/>
+  <code>✍️</code> <strong>Fine-Tuning (QLoRA, LoRA)</strong>   |  
+  <code>⚙️</code> <strong>MLOps & LLMOps</strong>   |  
+  <code>🔄</code> <strong>Transformers, BERT & Hugging Face</strong>
 </p>
 
+---
+
 <p align="center">
-  <a href="https://twitter.com/pranav_kjha" target="blank">
-    <img src="https://img.shields.io/twitter/follow/pranav_kjha?logo=twitter&style=for-the-badge" alt="Twitter" />
+  <a href="https://github.com/pranav-k-jha">
+    <img src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&theme=radical&count_private=true" alt="Pranav's GitHub stats" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://twitter.com/pranav_kjha" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/pranav_kjha?logo=twitter&style=for-the-badge" alt="Follow on Twitter" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pranav-k-jha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Pranav%20K.%20Jha-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=pranav-k-jha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 
 
 ---
