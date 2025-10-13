@@ -9,15 +9,15 @@
 <h3 align="center">Designing Scalable AI Systems — From Idea to Deployment</h3>
 
 <p align="center">
-Specializing in <b>LLM-based Solutions</b>, <b>Retrieval-Augmented Generation (RAG)</b>, and <b>Intelligent Automation</b> for research and enterprise applications.  
+  Specializing in <b>LLM-based Solutions</b>, <b>Retrieval-Augmented Generation (RAG)</b>, and <b>Intelligent Automation</b> for research and enterprise applications.  
 </p>
-
 
 <p align="center">
-  Passionate about transforming raw data into actionable, production-grade solutions.<br />
-  🚀 Web & Mobile Systems • 🧠 AI-Driven Automation • 📦 Optimized Data Workflows • 🔄 CI/CD & MLOps • 📈 Real-Time Analytics • 🧩 Modular Software Architecture<br />
-  🗣️ NLP & Generative AI • 📚 LangChain & Open-Source Models • 🧠 LLMs & Multimodal Systems • ✍️ Fine-Tuning (QLoRA, LoRA) • ⚙️ MLOps & LLMOps • 🔄 Transformers, BERT & Hugging Face
+  Passionate about transforming raw data into actionable, production-grade AI systems.<br /><br />
+  🧠 <b>AI-Driven Automation</b> • 📦 <b>Optimized Data Workflows</b> • 🔄 <b>CI/CD & MLOps</b> • 📈 <b>Real-Time Analytics</b> • 🧩 <b>Modular AI Architecture</b><br />
+  🗣️ <b>NLP & Generative AI</b> • 📚 <b>LangChain & Open-Source LLMs</b> • 🤖 <b>RAG Pipelines</b> • ✍️ <b>Fine-Tuning (LoRA, QLoRA)</b> • ⚙️ <b>LLMOps & Model Deployment</b> • 🔄 <b>Transformers, BERT & Hugging Face</b>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranav-k-jha&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-k-jha" />
