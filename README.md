@@ -29,11 +29,13 @@
 
 ---
 
-### 🔬 Current Focus
-- 🛠 In Progress: Advances in the Application of Machine Learning for Forecasting Travel Behavior: Case Study of Minnesota (Private Repository)
-- 📚 Exploring: **LLMOps**
-- 💬 Ask me about: Web Development • Data Science • Machine Learning • DevOps  
-- 📩 Reach me at: **pranav.jha@mail.concordia.ca**
+### 🤖 Current Focus
+
+- 🧠 **In Progress:** Building scalable **AI Solutions** integrating **LLMs**, **RAG pipelines**, and **multi-agent systems** for enterprise automation and research applications.  
+- 🔍 **Exploring:** **LLMOps**, **vector databases**, **knowledge graph integration**, and **prompt engineering** for domain-adapted intelligence.  
+- 💬 **Ask me about:** AI Architecture • RAG Systems • LLM Integration • MLOps • Cloud AI Deployment  
+- 📩 **Reach me at:** [pranav.jha@mail.concordia.ca](mailto:pranav.jha@mail.concordia.ca)
+
 
 > ⚡ **Fun Fact:** Neural networks—now at the heart of AI—were first conceptualized in the 1940s! But it was only with the rise of computational power and big data in the 21st century that they truly began transforming industries.
 
