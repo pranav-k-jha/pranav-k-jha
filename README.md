@@ -9,13 +9,13 @@
 <h3 align="center">Designing Scalable AI Systems — From Idea to Deployment</h3>
 
 <p align="center">
-  Specializing in <b>LLM-based Solutions</b>, <b>Retrieval-Augmented Generation (RAG)</b>, and <b>Intelligent Automation</b> for research and enterprise applications.  
+  Specializing in <b>Large Language Models (LLMs)</b>, <b>Retrieval-Augmented Generation (RAG)</b>, and <b>Intelligent Automation</b> for research and enterprise applications.  
 </p>
 
 <p align="center">
-  Passionate about transforming raw data into actionable, production-grade AI systems.<br /><br />
-  💡 <b>AI-Driven Automation</b> • 📦 <b>Optimized Data Workflows</b> • 🔄 <b>CI/CD & MLOps</b> • 📈 <b>Real-Time Analytics</b> • 🧩 <b>Modular AI Architecture</b><br />
-  🗣️ <b>NLP & Generative AI</b> • 📚 <b>LangChain & Open-Source LLMs</b> • 🤖 <b>RAG Pipelines</b> • ✍️ <b>Fine-Tuning (LoRA, QLoRA)</b> • ⚙️ <b>LLMOps & Model Deployment</b> • 🔄 <b>Transformers, BERT & Hugging Face</b>
+  Passionate about transforming data into actionable intelligence through robust, production-grade AI architectures.<br /><br />
+  💡 <b>Core Areas:</b> AI-Driven Automation • Optimized Data Workflows • CI/CD & MLOps • Real-Time Analytics • Modular AI Infrastructure<br />
+  🧩 <b>Research Interests:</b> NLP & Generative AI • RAG Systems • LangChain & Open-Source LLMs • Fine-Tuning (LoRA, QLoRA) • LLMOps & Model Deployment • Transformer Architectures (BERT, GPT, etc.)
 </p>
 
 
