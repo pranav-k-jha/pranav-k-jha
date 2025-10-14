@@ -67,8 +67,8 @@
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="Plotly" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" alt="Hugging Face" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="OpenAI" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" alt="Hugging Face" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="OpenAI" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
