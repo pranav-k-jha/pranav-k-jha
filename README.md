@@ -4,36 +4,27 @@
 <!-- <p align="center">
   <img width="712" alt="Screenshot 2024-06-06 at 11 09 15 PM" src="https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5d8f304a-2806-4de8-89cd-f883c32db407">
 </p> -->
-<h1 align="center">Hey there 👋, I'm Pranav Jha</h1>
-<h2 align="center">AI Solutions Architect</h2>
-
 <div align="center">
 
-<h1>Hey there 👋, I'm Pranav Jha</h1>
-<h2>AI Solutions Architect</h2>
-<h3>Designing Scalable AI Systems — From Idea to Deployment</h3>
+  <h1>Hey there 👋, I'm Pranav Jha</h1>
+  <h2>AI Solutions Architect</h2>
+  <h3>Designing Scalable AI Systems — From Idea to Deployment</h3>
 
-<p>
-  <b>LLMs • RAG • Intelligent Automation</b><br/>
-  <i>Transforming data into actionable intelligence through robust, production-grade AI architectures.</i>
-</p>
+  <p>
+    <b>LLMs • RAG • Intelligent Automation</b><br/>
+    <i>Transforming data into actionable intelligence through robust, production-grade AI architectures.</i>
+  </p>
 
-<p>
-  <a href="https://pranav-k-jha.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=pranav-k-jha&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
+  <!-- Stats and Website Badges Row -->
+  <p>
+    <a href="https://pranav-k-jha.github.io/" target="_blank">
+      <img src="https://img.shields.io/badge/Visit%20My%20Website-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit my website" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=pranav-k-jha&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/pranav-k-jha?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
+  </p>
 
 </div>
-
-
-
-
-<p align="center">
-  🌐 <a href="https://pranav-k-jha.github.io/" target="_blank"><b>Visit my website →</b></a>
-</p>
-
 
 
 <p align="center">
