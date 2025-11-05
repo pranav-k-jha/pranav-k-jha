@@ -18,6 +18,10 @@
   🧩 <b>Research Interests:</b> NLP & Generative AI • RAG Systems • LangChain & Open-Source LLMs • Fine-Tuning (LoRA, QLoRA) • LLMOps & Model Deployment • Transformer Architectures (BERT, GPT, etc.)
 </p>
 
+<p align="center">
+  🌐 <a href="https://pranav-k-jha.github.io/" target="_blank"><b>Visit my website →</b></a>
+</p>
+
 
 
 <p align="center">
