@@ -4,47 +4,14 @@
 <!-- <p align="center">
   <img width="712" alt="Screenshot 2024-06-06 at 11 09 15 PM" src="https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5d8f304a-2806-4de8-89cd-f883c32db407">
 </p> -->
-<h1 align="center">Hey there 👋, I'm Pranav Jha</h1>
-<h2 align="center">AI Solutions Architect</h2>
-<h3 align="center">Designing Scalable AI Systems — From Idea to Deployment</h3>
+I'll create a responsive, visually appealing layout for your profile using a clean, modern design with a 2-column layout for larger screens that stacks on mobile. I'll use React with Tailwind CSS for styling.
 
-<p align="center">
-  Specializing in <b>Large Language Models (LLMs)</b>, <b>Retrieval-Augmented Generation (RAG)</b>, and <b>Intelligent Automation</b> for research and enterprise applications.  
-</p>
+Let me first check if there's an existing layout file we should use.
 
-<p align="center">
-  Passionate about transforming data into actionable intelligence through robust, production-grade AI architectures.<br /><br />
-  💡 <b>Core Areas:</b> AI-Driven Automation • Optimized Data Workflows • CI/CD & MLOps • Real-Time Analytics • Modular AI Infrastructure<br />
-  🧩 <b>Research Interests:</b> NLP & Generative AI • RAG Systems • LangChain & Open-Source LLMs • Fine-Tuning (LoRA, QLoRA) • LLMOps & Model Deployment • Transformer Architectures (BERT, GPT, etc.)
-</p>
+Let me check the root layout to ensure we maintain consistent styling.
 
-<p align="center">
-  🌐 <a href="https://pranav-k-jha.github.io/" target="_blank"><b>Visit my website →</b></a>
-</p>
+I'll create a new page component for your profile with a clean, responsive 2-column layout that will look great on all devices. I'll use Tailwind CSS for styling since it's already set up in your project.
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranav-k-jha&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-k-jha" />
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/pranav_kjha" target="blank">
-    <img src="https://img.shields.io/twitter/follow/pranav_kjha?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-</p>
-
-
----
-
-### 🤖 Current Focus
-
-- 🧠 **In Progress:** Building scalable **AI Solutions** integrating **LLMs**, **RAG pipelines**, and **multi-agent systems** for enterprise automation and research applications.  
-- 🔍 **Exploring:** **LLMOps**, **vector databases**, **knowledge graph integration**, and **prompt engineering** for domain-adapted intelligence.  
-- 💬 **Ask me about:** AI Architecture • RAG Systems • LLM Integration • MLOps • Cloud AI Deployment  
-- 📩 **Reach me at:** [pranav.jha@mail.concordia.ca](mailto:pranav.jha@mail.concordia.ca)
-
-
-> ⚡ **Fun Fact:** Neural networks—now at the heart of AI—were first conceptualized in the 1940s! But it was only with the rise of computational power and big data in the 21st century that they truly began transforming industries.
 
 ---
 
