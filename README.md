@@ -4,14 +4,6 @@
 <!-- <p align="center">
   <img width="712" alt="Screenshot 2024-06-06 at 11 09 15 PM" src="https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5d8f304a-2806-4de8-89cd-f883c32db407">
 </p> -->
-I'll create a responsive, visually appealing layout for your profile using a clean, modern design with a 2-column layout for larger screens that stacks on mobile. I'll use React with Tailwind CSS for styling.
-
-Let me first check if there's an existing layout file we should use.
-
-Let me check the root layout to ensure we maintain consistent styling.
-
-I'll create a new page component for your profile with a clean, responsive 2-column layout that will look great on all devices. I'll use Tailwind CSS for styling since it's already set up in your project.
-
 
 ---
 
