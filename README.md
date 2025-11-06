@@ -4,35 +4,62 @@
 <!-- <p align="center">
   <img width="712" alt="Screenshot 2024-06-06 at 11 09 15 PM" src="https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5d8f304a-2806-4de8-89cd-f883c32db407">
 </p> -->
-<h1 align="center">Hey there 👋, I'm Pranav Jha</h1>
-<h2 align="center">AI Solutions Architect</h2>
-<h3 align="center">Designing Scalable AI Systems — From Idea to Deployment</h3>
+# Hey there 👋 I'm Pranav Jha
 
-<p align="center">
-  Specializing in <b>Large Language Models (LLMs)</b>, <b>Retrieval-Augmented Generation (RAG)</b>, and <b>Intelligent Automation</b> for research and enterprise applications.  
-</p>
+## 🚀 AI Solutions Architect
 
-<p align="center">
-  Passionate about transforming data into actionable intelligence through robust, production-grade AI architectures.<br /><br />
-  💡 <b>Core Areas:</b> AI-Driven Automation • Optimized Data Workflows • CI/CD & MLOps • Real-Time Analytics • Modular AI Infrastructure<br />
-  🧩 <b>Research Interests:</b> NLP & Generative AI • RAG Systems • LangChain & Open-Source LLMs • Fine-Tuning (LoRA, QLoRA) • LLMOps & Model Deployment • Transformer Architectures (BERT, GPT, etc.)
-</p>
+> **Designing Scalable AI Systems** — From Idea to Deployment
 
-<p align="center">
-  🌐 <a href="https://pranav-k-jha.github.io/" target="_blank"><b>Visit my website →</b></a>
-</p>
+---
 
+### 💡 **About Me**
+I specialize in building **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG) systems**, and **Intelligent Automation** solutions for research and enterprise applications. Passionate about transforming data into actionable intelligence through robust, production-grade AI architectures.
 
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranav-k-jha&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-k-jha" />
-</p>
+### 🛠 **Core Expertise**
+- **AI/ML Development**: End-to-end AI solution design and implementation
+- **LLM Engineering**: Fine-tuning, deployment, and optimization of large language models
+- **RAG Systems**: Building context-aware, knowledge-grounded AI applications
+- **MLOps & LLMOps**: CI/CD pipelines, model versioning, and deployment
+- **Cloud & Infrastructure**: Scalable AI system architecture on cloud platforms
+- **Data Engineering**: Optimized data workflows and ETL/ELT pipelines
 
-<p align="center">
-  <a href="https://twitter.com/pranav_kjha" target="blank">
-    <img src="https://img.shields.io/twitter/follow/pranav_kjha?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-</p>
+---
+
+### 🔬 **Research Focus**
+- **NLP & Generative AI**: Advanced language understanding and generation
+- **Model Optimization**: Parameter-efficient fine-tuning (LoRA, QLoRA)
+- **Transformer Architectures**: BERT, GPT, and beyond
+- **Open-Source AI**: Contributing to and leveraging open-source LLM ecosystems
+- **AI Ethics & Safety**: Responsible AI development and deployment
+
+---
+
+### 🛠 **Technologies & Tools**
+**Languages**: Python, SQL, JavaScript/TypeScript  
+**Frameworks**: PyTorch, TensorFlow, LangChain, Hugging Face Transformers  
+**MLOps**: MLflow, Weights & Biases, DVC  
+**Cloud**: AWS, GCP, Azure  
+**DevOps**: Docker, Kubernetes, GitHub Actions, Terraform
+
+---
+
+### 📫 **Let's Connect**
+- [🌐 Portfolio Website](https://yourwebsite.com)
+- [💼 LinkedIn](https://linkedin.com/in/yourprofile)
+- [📝 Blog](https://yourblog.com)
+- [🐦 Twitter](https://twitter.com/yourhandle)
+- [📧 Email](mailto:your.email@example.com)
+
+---
+
+### 📊 **GitHub Stats**
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+> "The only way to do great work is to love what you do." — Steve Jobs
 
 
 ---
