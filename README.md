@@ -46,7 +46,7 @@ I specialize in building **Large Language Models (LLMs)**, **Retrieval-Augmented
 ---
 
 ### 📫 **Let's Connect**
-- [🌐 Portfolio Website](https://yourwebsite.com](https://pranav-k-jha.github.io/))
+- [🌐 Portfolio Website](https://pranav-k-jha.github.io/)
 - [💼 LinkedIn](https://linkedin.com/in/pranav-k-jha)
 - [🐦 Twitter](https://twitter.com/pranav_kjha)
 - [📧 Email](mailto:pranav.jha@mail.concordia.ca)
