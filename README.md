@@ -53,11 +53,6 @@ I specialize in building **Large Language Models (LLMs)**, **Retrieval-Augmented
 
 ---
 
-### 📊 **GitHub Stats**
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
 > "The only way to do great work is to love what you do." — Steve Jobs
 
 
