@@ -57,7 +57,7 @@ I specialize in building **Large Language Models (LLMs)**, **Retrieval-Augmented
 
 ---
 
-## 🤖 AI, ML, RAG & Data Science Tech Stack
+## 🤖 Tech Stack
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
