@@ -20,8 +20,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pranav-k-jha&color=58A6FF&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/pranav-k-jha?style=flat-square&color=58A6FF)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
+
 
 ---
 
@@ -185,7 +186,3 @@ Here’s your exact markdown with **all sections expanded** (no `<details>` tags
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-</div>
