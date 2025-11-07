@@ -19,6 +19,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pranav-k-jha&color=58A6FF&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/pranav-k-jha?style=flat-square&color=58A6FF)
 
 </div>
 
@@ -188,9 +189,6 @@ const pranav = {
 <div align="center">
 
 ### ⚡ "The best way to predict the future is to invent it." - Alan Kay
-
-![Profile Views](https://komarev.com/ghpvc/?username=pranav-k-jha&color=58A6FF&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/pranav-k-jha?style=flat-square&color=58A6FF)
 
 </div>
 
