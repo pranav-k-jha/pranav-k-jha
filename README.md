@@ -93,15 +93,61 @@ I specialize in building **Large Language Models (LLMs)**, **Retrieval-Augmented
 ## 📊 GitHub Stats
 
 <p align="center">
-   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&theme=chartreuse-dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&theme=default" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&theme=default" alt="Top Languages" style="display:inline-block; width: 45%; vertical-align:top;" />
-   </picture>
+  <!-- Top Languages Card -->
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&theme=chartreuse-dark&hide_border=true" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&hide_border=true" 
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&hide_border=true" 
+      alt="Top Languages" 
+      style="display: inline-block; width: 45%;" 
+    />
+  </picture>
 
-   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=chartreuse-dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=default" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=default" alt="GitHub Streak" style="display:inline-block; width: 45%;" />
-   </picture>
+  <!-- GitHub Streak Card -->
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=chartreuse-dark&hide_border=true" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&hide_border=true" 
+    />
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&hide_border=true" 
+      alt="GitHub Streak" 
+      style="display: inline-block; width: 45%;" 
+    />
+  </picture>
+
+  <!-- GitHub Stats Card -->
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&hide_border=true&include_all_commits=true" 
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&hide_border=true&include_all_commits=true" 
+      alt="GitHub Stats" 
+      style="display: block; width: 90%; margin: 1.5rem auto;" 
+    />
+  </picture>
+
+  <!-- Activity Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-k-jha&theme=react-dark&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+    style="display: block; width: 90%; margin: 1.5rem auto; border-radius: 8px;"
+  />
 </p>
