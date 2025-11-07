@@ -22,6 +22,8 @@
 
 </div>
 
+---
+
 ## 🚀 What I Do
 
 ```typescript
