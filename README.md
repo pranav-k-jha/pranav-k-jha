@@ -1,150 +1,203 @@
-![github-header-image](https://github.com/user-attachments/assets/d113f198-5f3a-4b84-9e3c-11495d9d0f30)
-
-<!-- Optional Screenshot Section -->
-<!-- <p align="center">
-  <img width="712" alt="Screenshot 2024-06-06 at 11 09 15 PM" src="https://github.com/pranav-k-jha/pranav-k-jha/assets/61943097/5d8f304a-2806-4de8-89cd-f883c32db407">
-</p> -->
-
-# AI Solutions Architect
-
-> **Designing Scalable AI Systems** — From Idea to Deployment
-
----
-
-### 💡 **About Me**
-I specialize in building **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG) systems**, and **Intelligent Automation** solutions for research and enterprise applications. Passionate about transforming data into actionable intelligence through robust, production-grade AI architectures.
-
----
-
-### 🛠 **Core Expertise**
-- **AI/ML Development**: End-to-end AI solution design and implementation
-- **LLM Engineering**: Fine-tuning, deployment, and optimization of large language models
-- **RAG Systems**: Building context-aware, knowledge-grounded AI applications
-- **MLOps & LLMOps**: CI/CD pipelines, model versioning, and deployment
-- **Cloud & Infrastructure**: Scalable AI system architecture on cloud platforms
-- **Data Engineering**: Optimized data workflows and ETL/ELT pipelines
-
----
-
-### 🔬 **Research Focus**
-- **NLP & Generative AI**: Advanced language understanding and generation
-- **Model Optimization**: Parameter-efficient fine-tuning (LoRA, QLoRA)
-- **Transformer Architectures**: BERT, GPT, and beyond
-- **Open-Source AI**: Contributing to and leveraging open-source LLM ecosystems
-- **AI Ethics & Safety**: Responsible AI development and deployment
-
----
-
-### 🛠 **Technologies & Tools**
-**Languages**: Python, SQL, JavaScript/TypeScript  
-**Frameworks**: PyTorch, TensorFlow, LangChain, Hugging Face Transformers  
-**MLOps**: MLflow, Weights & Biases, DVC  
-**Cloud**: AWS, GCP, Azure  
-**DevOps**: Docker, Kubernetes, GitHub Actions, Terraform
-
----
-
-### 📫 **Let's Connect**
-- [🌐 Portfolio Website](https://pranav-k-jha.github.io/)
-- [💼 LinkedIn](https://linkedin.com/in/pranav-k-jha)
-- [🐦 Twitter](https://twitter.com/pranav_kjha)
-- [📧 Email](mailto:pranav.jha@mail.concordia.ca)
-
----
-
-> "The only way to do great work is to love what you do." — Steve Jobs
-
-
----
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="Plotly" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-black?style=flat&logo=Huggingface&logoColor=yellow" alt="Hugging Face" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" alt="OpenAI" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+
+# 👋 Hey, I'm Pranav
+
+### AI Solutions Architect • LLM Engineer • Full-Stack Developer
+
+*Building intelligent systems that transform data into actionable insights*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pranav-k-jha.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-k-jha)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pranav_kjha)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranav.jha@mail.concordia.ca)
+
 </div>
 
 ---
 
+## 🚀 What I Do
 
-> ⚡ **Fun Fact:** Neural networks—now at the heart of AI—were first conceptualized in the 1940s! But it was only with the rise of computational power and big data in the 21st century that they truly began transforming industries.
+```typescript
+const pranav = {
+  code: ["Python", "TypeScript", "SQL"],
+  specialization: {
+    ai: ["LLMs", "RAG Systems", "Fine-tuning", "Prompt Engineering"],
+    mlops: ["Model Deployment", "CI/CD", "Monitoring", "Versioning"],
+    dataEngineering: ["ETL/ELT", "Data Pipelines", "Stream Processing"]
+  },
+  currentFocus: "Building production-ready AI applications",
+  learning: ["Advanced LLM Architectures", "Multimodal AI"],
+  funFact: "Neural networks were conceived in the 1940s!"
+};
+```
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Core Expertise
 
-<p align="center">
-  <!-- Top Languages Card -->
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&theme=chartreuse-dark&hide_border=true" 
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&hide_border=true" 
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-k-jha&layout=compact&hide_border=true" 
-      alt="Top Languages" 
-      style="display: inline-block; width: 45%;" 
-    />
-  </picture>
+<table>
+<tr>
+<td width="50%">
 
-  <!-- GitHub Streak Card -->
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=chartreuse-dark&hide_border=true" 
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&hide_border=true" 
-    />
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&hide_border=true" 
-      alt="GitHub Streak" 
-      style="display: inline-block; width: 45%;" 
-    />
-  </picture>
+### 🤖 AI/ML Engineering
+- End-to-end AI solution design
+- LLM fine-tuning & optimization
+- RAG systems & semantic search
+- Model deployment & monitoring
 
-  ## 📅 GitHub Contributions
+</td>
+<td width="50%">
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=pranav-k-jha&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=pranav-k-jha&theme=github&hide_border=true&area=true"
-    />
-</p>
+### ⚡ Modern Stack
+- Cloud-native architectures
+- Scalable data pipelines
+- MLOps/LLMOps automation
+- Production-grade systems
 
-  <!-- Activity Graph -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-k-jha&theme=react-dark&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-    style="display: block; width: 90%; margin: 1.5rem auto; border-radius: 8px;"
-  />
-</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<details>
+<summary>🧠 <b>AI & Machine Learning</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</details>
+
+<details>
+<summary>📊 <b>Data & Analytics</b></summary>
+<br/>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+</details>
+
+<details>
+<summary>🗄️ <b>Databases</b></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+
+</details>
+
+<details>
+<summary>☁️ <b>Cloud & DevOps</b></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</details>
+
+<details>
+<summary>🔧 <b>MLOps & Tools</b></summary>
+<br/>
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</details>
+
+---
+
+## 🔬 Research Interests
+
+> Currently exploring the intersection of **Large Language Models** and **Retrieval Systems**
+
+- 🧪 **Parameter-Efficient Fine-Tuning** (LoRA, QLoRA, Adapters)
+- 🔍 **Advanced RAG Architectures** (Hybrid Search, Re-ranking, Query Expansion)
+- 🎯 **LLM Alignment & Safety** (RLHF, Constitutional AI)
+- 🌐 **Multimodal AI** (Vision-Language Models)
+- ⚡ **Model Optimization** (Quantization, Pruning, Distillation)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="49%" />
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-k-jha&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true" alt="Contribution Graph" width="98%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-k-jha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranav-k-jha&theme=tokyonight&utcOffset=8" alt="Productive Time" width="49%" />
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pranav-k-jha&repo=your-ai-project&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/pranav-k-jha/your-ai-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pranav-k-jha&repo=your-rag-system&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/pranav-k-jha/your-rag-system)
+
+</div>
+
+---
+
+## 💬 Let's Connect
+
+<div align="center">
+
+**Open to collaborations on AI/ML projects and research opportunities!**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge)](https://pranav-k-jha.github.io/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/pranav-k-jha)
+[![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-red?style=for-the-badge)](mailto:pranav.jha@mail.concordia.ca)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "The best way to predict the future is to invent it." - Alan Kay
+
+![Profile Views](https://komarev.com/ghpvc/?username=pranav-k-jha&color=58A6FF&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/pranav-k-jha?style=flat-square&color=58A6FF)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</div>
