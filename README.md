@@ -162,17 +162,6 @@ const pranav = {
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pranav-k-jha&repo=your-ai-project&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/pranav-k-jha/your-ai-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pranav-k-jha&repo=your-rag-system&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/pranav-k-jha/your-rag-system)
-
-</div>
-
----
-
 ## 💬 Let's Connect
 
 <div align="center">
