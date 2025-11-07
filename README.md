@@ -11,9 +11,16 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pranav_kjha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranav.jha@mail.concordia.ca)
 
+
 </div>
 
 ---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=pranav-k-jha&color=58A6FF&style=flat-square)
+
+</div>
 
 ## 🚀 What I Do
 
