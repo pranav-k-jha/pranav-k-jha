@@ -145,18 +145,42 @@ const pranav = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-k-jha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="49%" />
+<!-- Streak Stats -->
+<a href="https://github.com/pranav-k-jha">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF#gh-dark-mode-only" 
+    alt="GitHub Streak (Dark)" width="49%" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=2563EB#gh-light-mode-only" 
+    alt="GitHub Streak (Light)" width="49%" />
+</a>
+
+<!-- Top Languages -->
+<a href="https://github.com/pranav-k-jha">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-k-jha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9#gh-dark-mode-only" 
+    alt="Top Languages (Dark)" width="49%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-k-jha&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=1F2937#gh-light-mode-only" 
+    alt="Top Languages (Light)" width="49%" />
+</a>
 
 </div>
 
 <div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-k-jha&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true" alt="Contribution Graph" width="98%" />
+
+<!-- Activity Graph -->
+<a href="https://github.com/pranav-k-jha">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-k-jha&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true#gh-dark-mode-only" 
+    alt="Contribution Graph (Dark)" width="98%" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-k-jha&theme=minimal&hide_border=true&bg_color=FFFFFF&color=2563EB&line=3B82F6&point=2563EB&area=true#gh-light-mode-only" 
+    alt="Contribution Graph (Light)" width="98%" />
+</a>
 
 </div>
 
----
 
 ## 💬 Let's Connect
 
