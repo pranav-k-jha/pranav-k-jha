@@ -71,10 +71,6 @@ const pranav = {
 
 ---
 
-Here’s your exact markdown with **all sections expanded** (no `<details>` tags, fully visible):
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🧠 **AI & Machine Learning**
