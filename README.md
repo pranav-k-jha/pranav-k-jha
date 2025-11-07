@@ -147,7 +147,7 @@ const pranav = {
 
 <!-- Streak Stats -->
 <a href="https://github.com/pranav-k-jha">
-  <img src="https://streak-stats.demolab.com?user=pranav-k-jha&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF#gh-dark-mode-only" alt="GitHub Streak (Dark)" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="49%" />
 </a>
 
 <!-- Top Languages -->
