@@ -127,22 +127,6 @@ I specialize in building **Large Language Models (LLMs)**, **Retrieval-Augmented
     />
   </picture>
 
-  <!-- GitHub Stats Card -->
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true" 
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&hide_border=true&include_all_commits=true" 
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&hide_border=true&include_all_commits=true" 
-      alt="GitHub Stats" 
-      style="display: block; width: 90%; margin: 1.5rem auto;" 
-    />
-  </picture>
   ## 📅 GitHub Contributions
 
 <p align="center">
@@ -155,12 +139,6 @@ I specialize in building **Large Language Models (LLMs)**, **Retrieval-Augmented
       media="(prefers-color-scheme: light)"
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=pranav-k-jha&theme=github&hide_border=true&area=true"
     />
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-k-jha&theme=github&hide_border=true&area=true"
-      alt="GitHub Contributions Graph"
-      style="display: block; width: 100%; max-width: 100%; margin: 1.5rem auto; border-radius: 8px;"
-    />
-  </picture>
 </p>
 
   <!-- Activity Graph -->
