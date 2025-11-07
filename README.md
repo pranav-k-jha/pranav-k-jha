@@ -145,12 +145,8 @@ const pranav = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-k-jha&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="49%" />
 
-</div>
-
-<div align="center">
   
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-k-jha&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true" alt="Contribution Graph" width="98%" />
 
