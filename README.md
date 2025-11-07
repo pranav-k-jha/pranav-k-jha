@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Pranav
 
-### AI Solutions Architect • LLM Engineer • Full-Stack Developer
+### AI Solutions Architect • LLM Engineer • Data Scientist • Full-Stack Developer
 
 *Building intelligent systems that transform data into actionable insights*
 
