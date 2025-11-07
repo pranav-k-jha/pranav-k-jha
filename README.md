@@ -143,6 +143,25 @@ I specialize in building **Large Language Models (LLMs)**, **Retrieval-Augmented
       style="display: block; width: 90%; margin: 1.5rem auto;" 
     />
   </picture>
+  ## 📅 GitHub Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=pranav-k-jha&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=pranav-k-jha&theme=github&hide_border=true&area=true"
+    />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-k-jha&theme=github&hide_border=true&area=true"
+      alt="GitHub Contributions Graph"
+      style="display: block; width: 100%; max-width: 100%; margin: 1.5rem auto; border-radius: 8px;"
+    />
+  </picture>
+</p>
 
   <!-- Activity Graph -->
   <img
