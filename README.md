@@ -156,12 +156,6 @@ const pranav = {
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-k-jha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" 
     alt="Top Languages" width="49%" />
 </a>
-<!-- GitHub Stats -->
-<a href="https://github.com/pranav-k-jha">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=pranav-k-jha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" 
-    alt="Pranav's GitHub Stats" width="49%" />
-</a>
 
 
 <div align="center">
